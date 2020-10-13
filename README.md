@@ -12,7 +12,7 @@
 
    https://assetstore.unity.com/packages/3d/characters/robots/modular-sci-fi-heroes-pbr-106953 (￥20)
 
-   https://assetstore.unity.com/packages/3d/characters/robots/sci-fi-warrior-pbr-hp-polyart-106154(和上者相像	低配版	￥Free)
+   https://assetstore.unity.com/packages/3d/characters/robots/sci-fi-warrior-pbr-hp-polyart-106154 (和上者相像	低配版	￥Free)
 
    https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/space-soldier-94370 (￥10）
 
