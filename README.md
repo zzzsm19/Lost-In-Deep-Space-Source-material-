@@ -6,7 +6,7 @@
 
    https://assetstore.unity.com/packages/3d/environments/sci-fi/poly-style-space-station-100726 (￥9.99)
 
-   https://assetstore.unity.com/packages/3d/environments/sci-fi/polyworlds-space-construction-kit-135548O (￥69)
+   https://assetstore.unity.com/packages/3d/environments/sci-fi/polyworlds-space-construction-kit-135548 (￥69)
 
 2. 角色
 
